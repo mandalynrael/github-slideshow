@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+39 days until Christmas
 Use the left arrow to go back!
